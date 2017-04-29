@@ -1,0 +1,12 @@
+{
+		"name": "NodeChat",
+		"version": "1.0.0",
+		"description": "My first Node.js chat",
+		"dependencies": {
+				"socket.io": "latest",
+				"express": 3.5,
+				"jade": "latest",
+				"socket.io-client" : "0.9"
+		},
+		"author": "NBComrade"
+}
